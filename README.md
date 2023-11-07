@@ -29,5 +29,6 @@ The original ultrasound image (with speckle):
 
 The despeckled ultrasound image:
 
-![despeckled image](https://github.com/Xingorno/Optimized-Bayesian-Nonlocal-means-with-block-OBNLM-/blob/master/despeckledImage.png?raw=true)
+![despeckled image](https://github.com/SanchitaMondal/Bayesian-based-Nonlocal-Means-Filtering/assets/102673516/d91e3c11-e55b-4251-a5a9-e8b4c78f86b1)
+
 
