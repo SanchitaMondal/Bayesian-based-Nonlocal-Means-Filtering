@@ -24,7 +24,7 @@ with <img src="http://latex.codecogs.com/svg.latex? w(B_i,B_j)=\frac{1}{Z^j}e^{-
 
 The original ultrasound image (with speckle):
 
-![noisy image](https://github.com/Xingorno/Optimized-Bayesian-Nonlocal-means-with-block-OBNLM-/blob/master/noisyImage.png?raw=true)
+![noisy image]([https://github.com/SanchitaMondal/Bayesian-based-Nonlocal-Means-Filtering/blob/main/Test%20Results/img2.png])
 
 The despeckled ultrasound image:
 
