@@ -24,7 +24,8 @@ with <img src="http://latex.codecogs.com/svg.latex? w(B_i,B_j)=\frac{1}{Z^j}e^{-
 
 The ultrasound image (with speckle):
 
-![noisy image](https://github.com/SanchitaMondal/Bayesian-based-Nonlocal-Means-Filtering/assets/102673516/2b0c77ef-196f-43f5-8629-52af94c9bbcd)
+![noisy image](https://github.com/SanchitaMondal/Bayesian-based-Nonlocal-Means-Filtering/assets/102673516/e4eba606-0612-4fea-ae71-32020f2423c4)
+
 
 
 
@@ -32,7 +33,8 @@ The ultrasound image (with speckle):
 
 The despeckled ultrasound image:
 
-![despeckled image](https://github.com/SanchitaMondal/Bayesian-based-Nonlocal-Means-Filtering/assets/102673516/e8b6c7fc-0669-4850-a839-e00542e3da7d)
+![despeckled image](https://github.com/SanchitaMondal/Bayesian-based-Nonlocal-Means-Filtering/assets/102673516/2fe09976-c432-4963-bbda-fbfb23f6c5d2)
+
 
 
 
